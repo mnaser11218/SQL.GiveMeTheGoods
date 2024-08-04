@@ -1,0 +1,2 @@
+SELECT * FROM STUDENTS
+WHERE City LIKE '[acs]%'
